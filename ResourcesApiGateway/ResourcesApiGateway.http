@@ -1,0 +1,6 @@
+@ResourcesApiGateway_HostAddress = http://localhost:5079
+
+GET {{ResourcesApiGateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
